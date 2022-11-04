@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.body-1{
+    background-color: #00000082;
+}
+.navbar {
+    padding-left: 0%;
+    padding-top: 0%;
+}
+.d-flex{
+    width: 350px;
+}
+.container-fluid {
+    background-color: #37bbed;
+    height: 90px;
+}
+a.navbar-brand {
+    font-size: 40px;
+    font-family: "Encode Sans",Arial,sans-serif; 
+    color: white;
+}
+.h2-1{
+        position: relative;
+        font-size: 2.8rem;
+        font-family: "Encode Sans",Arial,sans-serif;
+        text-align: center;
+        top: 285px;
+        color: white;
+        font-weight: 2px;
+        background-color: #00000082;
+    } 
+.div-header{
+    opacity: 70%;
+    height: 625px;
+    position: relative;
+    width: 1140px;
+    left: 7%;
+}
+.icono-tren{
+    position: relative;
+    top: 13px;
+    border-radius: 20px;
+    left: 610px;
+    background-color: #37bbed;
+    
+}
+.icono-tren:hover{
+    background-color: #00000082;
+}
+.h2-2{
+    color: white;
+    position: relative;
+    background-color: #00000082;
+    font-family:"Encode Sans",Arial,sans-serif ;
+    text-align: center;
+    top: 16px;
+}
